@@ -31,4 +31,6 @@
 	<a href="https://www.linkedin.com/in/kush-bhalodi-b11991184/"><img src="https://img.icons8.com/ios/50/22C3E6/linkedin.png" alt="LinkedIn"/></a>
 </p>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=kush992&theme=highcontrast&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=kush992&theme=lowContrast&show_icons=true&count_private=true)
+	
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kush992)
