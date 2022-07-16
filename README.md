@@ -30,3 +30,5 @@
 	<a href="https://github.com/kush992/"><img src="https://img.icons8.com/ios/50/22C3E6/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/kush-bhalodi-b11991184/"><img src="https://img.icons8.com/ios/50/22C3E6/linkedin.png" alt="LinkedIn"/></a>
 </p>
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=kush992&theme=highcontrast&show_icons=true&count_private=true)
