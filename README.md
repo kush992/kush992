@@ -36,3 +36,5 @@
 ![kush992's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kush992&theme=dark&hide_border=true)
 	
 ![kush992's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kush992&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
+[![](https://visitcount.itsvg.in/api?id=kush992&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
